@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinash</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg">
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
+<img alt="YOUR NAME" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/
+light.svg">
+</picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiwebdev75&label=Profile%20views&color=0e75b6&style=flat" alt="abhiwebdev75" /> </p>
 
 - 📫 How to reach me **abhit7575@gmail.com**
