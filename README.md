@@ -20,7 +20,7 @@
       <p>
         <a href="https://linkedin.com/in/abhinash22hp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="mailto:abhit7575@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+        <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
       </p>
     </td>
   </tr>
@@ -125,9 +125,7 @@
   <img src="https://leetcard.jacoblin.cool/abhiwebdev75?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" width="49%">
 </p>
 
-<p align="center">
-  <i>Note: NeetCode doesn't provide a public API for stats. Your LeetCode progress card above shows recent activity.</i>
-</p>
+
 
 <hr>
 
@@ -235,9 +233,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume">
-  </a>
+  <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/im.a_b_h_i" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
