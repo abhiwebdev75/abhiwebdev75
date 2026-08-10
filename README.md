@@ -1,252 +1,267 @@
-<!-- HALF BANNER + HALF INFO -->
+<!-- BANNER + INFO -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="420" valign="middle">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg">
-        <img alt="Abhinash" src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg" width="450">
+        <img alt="Abhinash" src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg" width="420">
       </picture>
     </td>
-    <td width="25"></td>
+    <td width="30"></td>
     <td valign="middle">
-      <h1>Hi, I'm Abhinash 👋</h1>
-      <h3>MERN Stack Developer</h3>
+      <h1>Abhinash</h1>
+      <h3>Full-Stack Developer • MERN Specialist</h3>
       <p>
-        🎓 <b>MCA</b> · 📍 Punjab, India<br>
-        ⚡ React · Node.js · Express.js · MongoDB<br>
-        🌱 Currently learning TypeScript & Next.js
+        🎓 MCA &nbsp;|&nbsp; 📍 Punjab, India<br>
+        ⚡ Building production-ready web apps<br>
+        🌱 Open to freelance & full-time opportunities
       </p>
       <p>
-        <a href="https://linkedin.com/in/abhinash22hp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="mailto:abhit7575@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-        <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+        <a href="https://linkedin.com/in/abhinash22hp/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        &nbsp;
+        <a href="mailto:abhit7575@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+        &nbsp;
+        <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/resume-10B981?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abhiwebdev75&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"> 
+  <img src="https://komarev.com/ghpvc/?username=abhiwebdev75&label=views&color=A78BFA&style=flat-square" alt="views"> 
 </p>
 
-<hr>
+<br>
 
-<!-- ABOUT ME -->
-<h2>📖 About Me</h2>
+<!-- ABOUT -->
+<h2>👨‍💻 About</h2>
 
-- 🎓 MCA graduate passionate about full-stack web development
-- ⚡ Building scalable applications with **React, Node.js, Express.js, and MongoDB**
-- 🌱 Currently learning **TypeScript** and **Next.js**
-- 💬 Ask me about **JavaScript, REST APIs, and MERN Stack**
-- 📫 Reach me at **abhit7575@gmail.com**
-
-<hr>
-
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+<p>
+Full-stack developer with an MCA degree and hands-on experience building real-world applications. 
+I specialize in the <b>MERN stack</b> — MongoDB, Express.js, React, and Node.js — and write clean, maintainable code that scales. 
+Currently based in Punjab, India, I'm actively seeking opportunities where I can build impactful products.
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+<ul>
+  <li>🔭 Currently contributing to <b>SkillBridge</b> — a freelance job portal</li>
+  <li>🌱 Deep-diving into <b>TypeScript</b> and <b>Next.js</b></li>
+  <li>💬 Always up for discussing <b>JavaScript, REST APIs, and system design</b></li>
+  <li>📫 Reach me: <b>abhit7575@gmail.com</b></li>
+</ul>
+
+<br>
+
+<!-- TECH -->
+<h2>🛠️ Stack</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java">
+  <img src="https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="SQL">
 </p>
 
-<h3 align="center">Backend & Database</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<p>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React">
+  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" alt="Tailwind">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+<p>
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
+  <img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=fff" alt="Express.js">
+  <img src="https://img.shields.io/badge/rest_apis-FF6C37?style=flat-square&logo=postman&logoColor=fff" alt="REST APIs">
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
 </p>
 
-<hr>
+<p>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff" alt="GitHub">
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff" alt="VS Code">
+  <img src="https://img.shields.io/badge/android_studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=fff" alt="Android Studio">
+  <img src="https://img.shields.io/badge/cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff" alt="Cloudinary">
+</p>
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<br>
+
+<!-- STATS -->
+<h2>📊 Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwebdev75&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwebdev75&theme=tokyonight&hide_border=true" alt="streak" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhiwebdev75&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhiwebdev75&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="stats" width="49%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhiwebdev75&layout=compact&theme=tokyonight&hide_border=true" alt="languages" width="49%">
+</p>
+
+<br>
+
+<!-- LEETCODE -->
+<h2>💻 Practice</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/abhiwebdev75/"><img src="https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=000" alt="LeetCode"></a>
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhiwebdev75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%">
-</p>
-
-<details>
-  <summary>💡 Stats not showing? Click here</summary>
-  <p>GitHub's public stats API has rate limits. If cards are blank:</p>
-  <ul>
-    <li>Wait a few minutes and refresh</li>
-    <li>Open the image URL directly in a new tab to check</li>
-    <li>Try adding <code>?v=1</code> to bypass CDN cache</li>
-  </ul>
-</details>
-
-<hr>
-
-<!-- LEETCODE + NEETCODE -->
-<h2 align="center">💻 Coding Practice</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/abhiwebdev75/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/abhit7575" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
-  </a>
+  <a href="https://www.hackerrank.com/profile/abhit7575"><img src="https://img.shields.io/badge/hackerrank-00EA64?style=flat-square&logo=hackerrank&logoColor=000" alt="HackerRank"></a>
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abhiwebdev75?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" width="49%">
 </p>
 
+<br>
 
-
-<hr>
-
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- PROJECTS -->
+<h2>🚀 Projects</h2>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
+  
+  <!-- SkillBridge -->
   <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 SkillBridge</h3>
+      <p>Freelance job portal connecting talent with clients</p>
+      <ul>
+        <li>Job posting & bidding system</li>
+        <li>Real-time chat with Firebase</li>
+        <li>User profiles with portfolios</li>
+        <li>Cloudinary media uploads</li>
+        <li>Payment integration</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React">
+        <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
+        <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
+        <img src="https://img.shields.io/badge/cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff" alt="Cloudinary">
+      </p>
+      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
+    </td>
+    <td width="5%"></td>
     <td width="50%" valign="top">
       <h3>💪 FitHit Gym App</h3>
-      <p>Android gym management app with Kotlin & Firebase</p>
+      <p>Android gym management system</p>
       <ul>
-        <li>User Authentication</li>
-        <li>Locker & Sauna Booking</li>
-        <li>Parking Reservation</li>
-        <li>Attendance Tracking</li>
-        <li>Admin Dashboard</li>
+        <li>User authentication</li>
+        <li>Locker & sauna booking</li>
+        <li>Parking reservation</li>
+        <li>Attendance tracking</li>
+        <li>Admin dashboard</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+        <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff" alt="Kotlin">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
       </p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-    </td>
-    <td width="5%"></td>
-    <td width="50%" valign="top">
-      <h3>🎓 Student Portal</h3>
-      <p>College management web app with Java Servlets & MySQL</p>
-      <ul>
-        <li>Student Records Management</li>
-        <li>Attendance Tracking</li>
-        <li>Assignment Submission</li>
-        <li>Announcements Board</li>
-        <li>Admin Panel</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
     </td>
   </tr>
+  
   <tr><td colspan="3" height="20"></td></tr>
+  
+  <!-- Student Portal + Portfolio -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Personal developer portfolio built from scratch</p>
+      <h3>🎓 Student Portal</h3>
+      <p>College management web application</p>
       <ul>
-        <li>Responsive Design</li>
-        <li>Project Showcase</li>
-        <li>Contact Form</li>
-        <li>Smooth Animations</li>
+        <li>Student records management</li>
+        <li>Attendance tracking</li>
+        <li>Assignment submission</li>
+        <li>Announcements board</li>
+        <li>Admin panel</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java">
+        <img src="https://img.shields.io/badge/servlets/JSP-6DB33F?style=flat-square&logo=apache&logoColor=fff" alt="Servlets">
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL">
       </p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      &nbsp;
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
     </td>
     <td width="5%"></td>
     <td width="50%" valign="top">
-      <h3>📄 PaperBank</h3>
-      <p>Platform for previous-year question papers</p>
+      <h3>🌐 Portfolio Website</h3>
+      <p>Personal developer portfolio</p>
       <ul>
-        <li>Paper Upload & Download</li>
-        <li>Search & Filter</li>
-        <li>Subject Categories</li>
-        <li>User-Friendly Interface</li>
+        <li>Responsive design</li>
+        <li>Project showcase</li>
+        <li>Contact form</li>
+        <li>Smooth animations</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
       </p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
+      &nbsp;
+      <a href="#"><img src="https://img.shields.io/badge/demo-10B981?style=flat-square&logo=vercel&logoColor=fff" alt="Demo"></a>
+    </td>
+  </tr>
+  
+  <tr><td colspan="3" height="20"></td></tr>
+  
+  <!-- PaperBank -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 PaperBank</h3>
+      <p>Previous-year question paper platform</p>
+      <ul>
+        <li>Paper upload & download</li>
+        <li>Search & filter</li>
+        <li>Subject categories</li>
+        <li>User-friendly interface</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
+      </p>
+      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
+    </td>
+    <td width="5%"></td>
+    <td width="50%" valign="top">
+      <!-- empty for now - future project slot -->
     </td>
   </tr>
 </table>
 
-<hr>
+<br>
 
-<!-- CURRENTLY LEARNING -->
-<h2 align="center">📚 Currently Learning</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA">
-</p>
+<!-- LEARNING -->
+<h2>📚 Learning</h2>
 
-<hr>
-
-<!-- CONNECT WITH ME -->
-<h2 align="center">🤝 Connect With Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/abhinash22hp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abhit7575@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/im.a_b_h_i" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/abhiwebdev75/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/abhit7575" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff" alt="Next.js">
+  <img src="https://img.shields.io/badge/dsa-FF6B6B?style=flat-square&logo=thealgorithms&logoColor=fff" alt="DSA">
+  <img src="https://img.shields.io/badge/system_design-8B5CF6?style=flat-square&logo=diagramsdotnet&logoColor=fff" alt="System Design">
 </p>
 
 <br>
-<p align="center">⭐️ From <a href="https://github.com/abhiwebdev75">abhiwebdev75</a></p>
+
+<!-- CONNECT -->
+<h2>🔗 Connect</h2>
+
+<p>
+  <a href="https://linkedin.com/in/abhinash22hp/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:abhit7575@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=fff" alt="Email"></a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/resume-10B981?style=flat-square&logo=readthedocs&logoColor=fff" alt="Resume"></a>
+  &nbsp;
+  <a href="https://instagram.com/im.a_b_h_i"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="Instagram"></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/abhiwebdev75/"><img src="https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=000" alt="LeetCode"></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/abhit7575"><img src="https://img.shields.io/badge/hackerrank-00EA64?style=flat-square&logo=hackerrank&logoColor=000" alt="HackerRank"></a>
+</p>
+
+<br>
+<p align="center"><sub>built with ☕ by <a href="https://github.com/abhiwebdev75">abhiwebdev75</a></sub></p>
