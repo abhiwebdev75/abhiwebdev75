@@ -102,6 +102,21 @@ Currently based in Punjab, India, I'm actively seeking opportunities where I can
 </p>
 
 <br>
+<br>
+
+<!-- SNAKE -->
+<h2>🐍 Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake.svg">
+  </picture>
+</p>
+
+<br>
+<br>
 
 <!-- LEETCODE -->
 <h2>💻 Practice</h2>
