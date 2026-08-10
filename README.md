@@ -3,13 +3,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/main/dark.svg">
+    srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/dark.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/main/light.svg">
+    srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg">
   <img
     alt="Abhinash"
-    src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/main/light.svg">
+    src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg">
 </picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiwebdev75&label=Profile%20views&color=0e75b6&style=flat" alt="abhiwebdev75" /> </p>
 
