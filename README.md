@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhinash</h1>
 <h3 align="center">A passionate developer from India</h3>
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.png">
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.png">
-<img alt="YOUR NAME" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/
-light.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/main/dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/main/light.svg">
+  <img
+    alt="Abhinash"
+    src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/main/light.svg">
 </picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiwebdev75&label=Profile%20views&color=0e75b6&style=flat" alt="abhiwebdev75" /> </p>
 
