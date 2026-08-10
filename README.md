@@ -1,7 +1,7 @@
 <!-- HALF BANNER + HALF INFO -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="350" valign="middle">
+    <td width="420" valign="middle">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg">
