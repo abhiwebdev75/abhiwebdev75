@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinash</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
