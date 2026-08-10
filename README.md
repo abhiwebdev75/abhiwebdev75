@@ -11,6 +11,10 @@
     alt="Abhinash"
     src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg">
 </picture>
+<p align="center">
+  Full-Stack Developer with an MCA degree, specializing in <b>React, Node.js, Express.js, and MongoDB</b>. 
+  I build performant web applications with clean, maintainable code. Based in Punjab, India.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiwebdev75&label=Profile%20views&color=0e75b6&style=flat" alt="abhiwebdev75" /> </p>
 
 - 📫 How to reach me **abhit7575@gmail.com**
