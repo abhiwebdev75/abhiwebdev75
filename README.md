@@ -109,49 +109,42 @@ I'm **Abhinash**, a Full-Stack Developer and MERN specialist focused on building
       <p>
         A freelance job portal that connects talented professionals with clients.
       </p>
-
-      <ul>
+ <ul>
         <li>Job posting and bidding system</li>
         <li>Real-time chat using Firebase</li>
         <li>User profiles with portfolio management</li>
         <li>Cloudinary-powered media uploads</li>
         <li>Integrated payment functionality</li>
       </ul>
-
-      <p>
+<p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff" alt="Cloudinary">
       </p>
-
-      <a href="#">
+  <a href="#">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SkillBridge Repository">
       </a>
     </td>
-
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
       <h3>🎓 Student Management System</h3>
       <p>
         A college management platform for managing student records, academics, and campus communication.
       </p>
-
-      <ul>
+ <ul>
         <li>Student records management</li>
         <li>Attendance tracking</li>
         <li>Assignment submission</li>
         <li>Announcements and notices board</li>
         <li>Admin dashboard for system management</li>
       </ul>
-
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java">
         <img src="https://img.shields.io/badge/Servlets_%2F_JSP-6DB33F?style=flat-square&logo=apache&logoColor=fff" alt="Servlets and JSP">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL">
       </p>
-
-      <a href="#">
+ <a href="#">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Student Management System Repository">
       </a>
     </td>
