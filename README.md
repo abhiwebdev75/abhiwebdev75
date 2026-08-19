@@ -117,7 +117,11 @@ Currently based in Punjab, India, I'm actively seeking opportunities where I can
 
 <br>
 <br>
-
+<p align="center">
+  <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiweb/refs/heads/main/resume.pdf" download>
+    <img src="https://img.shields.io/badge/⬇%20Download%20Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
+  </a>
+</p>
 <!-- LEETCODE -->
 <h2>💻 Practice</h2>
 
