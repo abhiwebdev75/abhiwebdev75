@@ -1,286 +1,122 @@
-<!-- BANNER + INFO -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="420" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg">
-        <img alt="Abhinash" src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/light.svg" width="420">
-      </picture>
-    </td>
-    <td width="30"></td>
-    <td valign="middle">
-      <h1>Abhinash</h1>
-      <h3>Full-Stack Developer • MERN Specialist</h3>
-      <p>
-        🎓 MCA &nbsp;|&nbsp; 📍 Punjab, India<br>
-        ⚡ Building production-ready web apps<br>
-        🌱 Open to freelance & full-time opportunities
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/abhinash22hp/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        &nbsp;
-        <a href="mailto:abhit7575@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-        &nbsp;
-        <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/resume-10B981?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
-      </p>
-    </td>
-  </tr>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
+  <img src="./banner.svg?v=2" alt="Abhinash — Full-Stack Developer" width="100%">
+</picture>
+
+<br/>
+
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
+  <img src="./lanyard.svg?v=1" alt="Abhinash developer ID card" width="330">
+</td>
+<td width="62%" valign="middle" align="left">
+
+## 🚀 Featured Builds
+
+| Project | Stack | What I built |
+|:---|:---:|:---|
+| [SkillBridge](https://github.com/abhiwebdev75/Skillbridge) | `React` `Firebase` | Freelance job portal with job posting, bidding, profiles, real-time chat, Cloudinary uploads and payments |
+| [FitHit Gym App](https://github.com/abhiwebdev75/FITHIT-GYM) | `Kotlin` `Firebase` | Gym management app with authentication, locker/sauna booking, parking, attendance and admin dashboard |
+| [Student Portal](https://github.com/abhiwebdev75/Student-Management) | `Java` `JSP` `MySQL` | Student records, attendance, assignments, announcements and admin management |
+| Portfolio Website | `HTML` `CSS` `JS` | Responsive portfolio, project showcase, contact form and animations |
+| PaperBank | `HTML` `CSS` `JS` | Previous-year paper platform with upload/download, search, filters and subject categories |
+
+</td>
+</tr>
 </table>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abhiwebdev75&label=views&color=A78BFA&style=flat-square" alt="views"> 
-</p>
+</div>
 
-<br>
+## 👨‍💻 About Me
 
-<!-- ABOUT -->
-<h2>👨‍💻 About</h2>
+I'm **Abhinash**, a Full-Stack Developer and MERN specialist focused on building practical web and mobile applications.
 
-<p>
-Full-stack developer with an MCA degree and hands-on experience building real-world applications. 
-I specialize in the <b>MERN stack</b> — MongoDB, Express.js, React, and Node.js — and write clean, maintainable code that scales. 
-Currently based in Punjab, India, I'm actively seeking opportunities where I can build impactful products.
-</p>
+- 🎓 MCA student at **Chandigarh University**
+- ⚡ Full-Stack / MERN development
+- 🧩 React, Node.js, Express.js, MongoDB and Firebase
+- 🔌 REST APIs, SQL and application integration
+- 📱 Android development with Kotlin
+- 🧠 DSA and problem solving
+- 🌱 Currently learning **TypeScript and Next.js**
+- 🎯 Interested in building products that solve real problems
 
-<ul>
-  <li>🔭 Currently contributing to <b>SkillBridge</b> — a freelance job portal</li>
-  <li>🌱 Deep-diving into <b>TypeScript</b> and <b>Next.js</b></li>
-  <li>💬 Always up for discussing <b>JavaScript, REST APIs, and system design</b></li>
-  <li>📫 Reach me: <b>abhit7575@gmail.com</b></li>
-</ul>
-
-<br>
-
-<!-- TECH -->
-<h2>🛠️ Stack</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python">
-  <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java">
-  <img src="https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="SQL">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React">
-  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" alt="Tailwind">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
-  <img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=fff" alt="Express.js">
-  <img src="https://img.shields.io/badge/rest_apis-FF6C37?style=flat-square&logo=postman&logoColor=fff" alt="REST APIs">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff" alt="GitHub">
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff" alt="VS Code">
-  <img src="https://img.shields.io/badge/android_studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=fff" alt="Android Studio">
-  <img src="https://img.shields.io/badge/cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff" alt="Cloudinary">
-</p>
-
-<br>
-
-<!-- STATS -->
-<h2>📊 Stats</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwebdev75&theme=tokyonight&hide_border=true" alt="streak" width="100%">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,java,kotlin,mysql,git,github,tailwind&theme=dark" alt="Tech stack">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhiwebdev75&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="stats" width="49%">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhiwebdev75&layout=compact&theme=tokyonight&hide_border=true" alt="languages" width="49%">
-</p>
+<div align="center">
 
-<br>
-<br>
+### 📊 Local GitHub Snapshot
 
-<!-- SNAKE -->
-<h2>🐍 Contributions</h2>
+<img src="./stats.svg?v=1" alt="Local GitHub stats" width="700">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake.svg">
-  </picture>
-</p>
+<br/><br/>
 
-<br>
-<br>
-<p align="center">
-  <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiweb/refs/heads/main/resume.pdf" download>
-    <img src="https://img.shields.io/badge/⬇%20Download%20Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
-  </a>
-</p>
-<!-- LEETCODE -->
-<h2>💻 Practice</h2>
+<img src="./langs.svg?v=1" alt="Languages and toolkit focus" width="700">
 
-<p align="center">
-  <a href="https://leetcode.com/u/abhiwebdev75/"><img src="https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=000" alt="LeetCode"></a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/abhit7575"><img src="https://img.shields.io/badge/hackerrank-00EA64?style=flat-square&logo=hackerrank&logoColor=000" alt="HackerRank"></a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhiwebdev75?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" width="49%">
-</p>
+## 🚀 What I Build
 
-<br>
+- **Full-stack web applications** with React, Node.js, Express and MongoDB
+- **Real-time features** using Firebase
+- **RESTful APIs** and database-driven systems
+- **Android applications** using Kotlin and Firebase
+- **Admin dashboards** and management systems
+- **Responsive portfolio and frontend experiences**
 
-<!-- PROJECTS -->
-<h2>🚀 Projects</h2>
+## 📚 Currently Learning
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  
-  <!-- SkillBridge -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 SkillBridge</h3>
-      <p>Freelance job portal connecting talent with clients</p>
-      <ul>
-        <li>Job posting & bidding system</li>
-        <li>Real-time chat with Firebase</li>
-        <li>User profiles with portfolios</li>
-        <li>Cloudinary media uploads</li>
-        <li>Payment integration</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React">
-        <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
-        <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB">
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
-        <img src="https://img.shields.io/badge/cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff" alt="Cloudinary">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
-    </td>
-    <td width="5%"></td>
-    <td width="50%" valign="top">
-      <h3>💪 FitHit Gym App</h3>
-      <p>Android gym management system</p>
-      <ul>
-        <li>User authentication</li>
-        <li>Locker & sauna booking</li>
-        <li>Parking reservation</li>
-        <li>Attendance tracking</li>
-        <li>Admin dashboard</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff" alt="Kotlin">
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
-    </td>
-  </tr>
-  
-  <tr><td colspan="3" height="20"></td></tr>
-  
-  <!-- Student Portal + Portfolio -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Student Portal</h3>
-      <p>College management web application</p>
-      <ul>
-        <li>Student records management</li>
-        <li>Attendance tracking</li>
-        <li>Assignment submission</li>
-        <li>Announcements board</li>
-        <li>Admin panel</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java">
-        <img src="https://img.shields.io/badge/servlets/JSP-6DB33F?style=flat-square&logo=apache&logoColor=fff" alt="Servlets">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
-    </td>
-    <td width="5%"></td>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Personal developer portfolio</p>
-      <ul>
-        <li>Responsive design</li>
-        <li>Project showcase</li>
-        <li>Contact form</li>
-        <li>Smooth animations</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
-      &nbsp;
-      <a href="#"><img src="https://img.shields.io/badge/demo-10B981?style=flat-square&logo=vercel&logoColor=fff" alt="Demo"></a>
-    </td>
-  </tr>
-  
-  <tr><td colspan="3" height="20"></td></tr>
-  
-  <!-- PaperBank -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 PaperBank</h3>
-      <p>Previous-year question paper platform</p>
-      <ul>
-        <li>Paper upload & download</li>
-        <li>Search & filter</li>
-        <li>Subject categories</li>
-        <li>User-friendly interface</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=fff" alt="Repo"></a>
-    </td>
-    <td width="5%"></td>
-    <td width="50%" valign="top">
-      <!-- empty for now - future project slot -->
-    </td>
-  </tr>
-</table>
+`TypeScript` · `Next.js` · `System Design` · `DSA` · `Scalable Web Architecture`
 
-<br>
+## 📈 Contribution Activity
 
-<!-- LEARNING -->
-<h2>📚 Learning</h2>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff" alt="Next.js">
-  <img src="https://img.shields.io/badge/dsa-FF6B6B?style=flat-square&logo=thealgorithms&logoColor=fff" alt="DSA">
-  <img src="https://img.shields.io/badge/system_design-8B5CF6?style=flat-square&logo=diagramsdotnet&logoColor=fff" alt="System Design">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiwebdev75&bg_color=07101F&color=22D3EE&line=6366F1&point=A855F7&area=true&hide_border=true&custom_title=Abhinash%20Contribution%20Graph" alt="Contribution graph" width="95%">
 
-<br>
+</div>
 
-<!-- CONNECT -->
-<h2>🔗 Connect</h2>
+## 🏆 Achievements
 
-<p>
-  <a href="https://linkedin.com/in/abhinash22hp/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:abhit7575@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=fff" alt="Email"></a>
-  &nbsp;
-  <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/abhiweb/resume.pdf"><img src="https://img.shields.io/badge/resume-10B981?style=flat-square&logo=readthedocs&logoColor=fff" alt="Resume"></a>
-  &nbsp;
-  <a href="https://instagram.com/im.a_b_h_i"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="Instagram"></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/abhiwebdev75/"><img src="https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=000" alt="LeetCode"></a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/abhit7575"><img src="https://img.shields.io/badge/hackerrank-00EA64?style=flat-square&logo=hackerrank&logoColor=000" alt="HackerRank"></a>
-</p>
+<div align="center">
+<img src="./trophies.svg?v=1" alt="Local achievement grid" width="900">
+</div>
 
-<br>
-<p align="center"><sub>built with ☕ by <a href="https://github.com/abhiwebdev75">abhiwebdev75</a></sub></p>
+## 🐍 Watch My Contributions Grow
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake.svg" alt="Contribution snake">
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:abhit7575@gmail.com">
+<img src="https://img.shields.io/badge/Email-abhit7575%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/abhiwebdev75">
+<img src="https://img.shields.io/badge/GitHub-abhiwebdev75-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.instagram.com/im.a_b_h_i">
+<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhiwebdev75&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+
+<br/><br/>
+
+**Code. Learn. Build. Repeat. 🚀**
+
+<sub>Built with ☕ by <a href="https://github.com/abhiwebdev75">Abhinash</a></sub>
+
+</div>
