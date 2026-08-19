@@ -16,6 +16,11 @@
 <td width="62%" valign="middle" align="left">
 
 ## 🚀 Featured Builds
+<p align="center">
+  <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiweb/refs/heads/main/resume.pdf" download>
+    <img src="https://img.shields.io/badge/⬇%20Download%20Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
+  </a>
+</p>
 
 | Project | Stack | What I built |
 |:---|:---:|:---|
@@ -94,20 +99,112 @@ I'm **Abhinash**, a Full-Stack Developer and MERN specialist focused on building
 <div align="center">
 <img src="https://raw.githubusercontent.com/abhiwebdev75/abhiwebdev75/output/github-snake.svg" alt="Contribution snake">
 </div>
+<!-- PROJECTS -->
+## 🚀 Featured Projects
 
-## 📫 Let's Connect
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 SkillBridge</h3>
+      <p>
+        A freelance job portal that connects talented professionals with clients.
+      </p>
 
-<div align="center">
+      <ul>
+        <li>Job posting and bidding system</li>
+        <li>Real-time chat using Firebase</li>
+        <li>User profiles with portfolio management</li>
+        <li>Cloudinary-powered media uploads</li>
+        <li>Integrated payment functionality</li>
+      </ul>
 
-<a href="mailto:abhit7575@gmail.com">
-<img src="https://img.shields.io/badge/Email-abhit7575%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/abhiwebdev75">
-<img src="https://img.shields.io/badge/GitHub-abhiwebdev75-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.instagram.com/im.a_b_h_i">
-<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase">
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff" alt="Cloudinary">
+      </p>
+
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SkillBridge Repository">
+      </a>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🎓 Student Management System</h3>
+      <p>
+        A college management platform for managing student records, academics, and campus communication.
+      </p>
+
+      <ul>
+        <li>Student records management</li>
+        <li>Attendance tracking</li>
+        <li>Assignment submission</li>
+        <li>Announcements and notices board</li>
+        <li>Admin dashboard for system management</li>
+      </ul>
+
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java">
+        <img src="https://img.shields.io/badge/Servlets_%2F_JSP-6DB33F?style=flat-square&logo=apache&logoColor=fff" alt="Servlets and JSP">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL">
+      </p>
+
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Student Management System Repository">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- LEETCODE -->
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/abhiwebdev75/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000" alt="LeetCode">
+  </a>
+  <a href="https://www.hackerrank.com/profile/abhit7575">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000" alt="HackerRank">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abhiwebdev75?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics" width="70%">
+</p>
+
+
+---
+
+<!-- CURRENTLY LEARNING -->
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js">
+  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=fff" alt="Data Structures and Algorithms">
+  <img src="https://img.shields.io/badge/System_Design-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=fff" alt="System Design">
+</p>
+
+---
+
+<!-- CONNECT -->
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhinash22hp/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abhit7575@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abhit7575%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/im.a_b_h_i">
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 <br/><br/>
 
