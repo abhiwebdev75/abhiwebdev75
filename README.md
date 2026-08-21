@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
-  <img src="./banner.svg?v=3" alt="Abhinash — Full-Stack Developer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=4">
+  <img src="./banner.svg?v=4" alt="Abhinash — Full-Stack Developer" width="100%">
 </picture>
 <br><br>
 <!-- 🪪 Lanyard + About Me -->
