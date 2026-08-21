@@ -8,10 +8,10 @@
 <!-- 🪪 Lanyard + About Me -->
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
-    <td width="32%" align="center" valign="top">
-      <img src="./lanyard.svg?v=4" alt="Abhinash animated developer ID card" width="380">
+    <td width="42%" align="center" valign="top">
+      <img src="./lanyard.svg?v=4" alt="Abhinash animated developer ID card" width="580">
     </td>
-    <td width="68%" align="left" valign="top">
+    <td width="58%" align="left" valign="top">
       <h2>👨‍💻 About Me</h2>
       <p>
         I'm <strong>Abhinash</strong>, a Full-Stack Developer and MERN specialist focused on building practical web and mobile applications.
