@@ -1,21 +1,38 @@
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
-  <img src="./banner.svg?v=2" alt="Abhinash — Full-Stack Developer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
+  <img src="./banner.svg?v=3" alt="Abhinash — Full-Stack Developer" width="100%">
 </picture>
+<br><br>
+<!-- 🪪 Lanyard + About Me -->
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="32%" align="center" valign="top">
+      <img src="./lanyard.svg?v=4" alt="Abhinash animated developer ID card" width="380">
+    </td>
+    <td width="68%" align="left" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <p>
+        I'm <strong>Abhinash</strong>, a Full-Stack Developer and MERN specialist focused on building practical web and mobile applications.
+      </p>
+      <p>🎓 MCA student at <strong>Chandigarh University</strong></p>
+      <p>⚡ Full-Stack / MERN development</p>
+      <p>🧩 React, Node.js, Express.js, MongoDB and Firebase</p>
+      <p>🔌 REST APIs, SQL and application integration</p>
+      <p>📱 Android development with Kotlin</p>
+      <p>🧠 DSA and problem solving</p>
+      <p>🌱 Currently learning <strong>TypeScript and Next.js</strong></p>
+      <p>🎯 Interested in building products that solve real problems</p>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 <br/>
 
-<table>
-<tr>
-<td width="38%" align="center" valign="middle">
-  <img src="./lanyard.svg?v=1" alt="Abhinash developer ID card" width="330">
-</td>
-<td width="62%" valign="middle" align="left">
-
-## 🚀 Featured Builds
+# 🚀 Featured Builds
 <p align="center">
   <a href="https://raw.githubusercontent.com/abhiwebdev75/abhiweb/refs/heads/main/resume.pdf" download>
     <img src="https://img.shields.io/badge/⬇%20Download%20Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
@@ -24,7 +41,7 @@
 
 | Project | Stack | What I built |
 |:---|:---:|:---|
-| [SkillBridge](https://github.com/abhiwebdev75/Skillbridge) | `React` `Firebase` | Freelance job portal with job posting, bidding, profiles, real-time chat, Cloudinary uploads and payments |
+| [SkillBridge](https://github.com/abhiwebdev75/Skillbridge) | `React` `NodeJS` `ExpressJS` `MongoDB` `Firebase` | Freelance job portal with job posting, bidding, profiles, real-time chat, Cloudinary uploads and payments |
 | [FitHit Gym App](https://github.com/abhiwebdev75/FITHIT-GYM) | `Kotlin` `Firebase` | Gym management app with authentication, locker/sauna booking, parking, attendance and admin dashboard |
 | [Student Portal](https://github.com/abhiwebdev75/Student-Management) | `Java` `JSP` `MySQL` | Student records, attendance, assignments, announcements and admin management |
 | Portfolio Website | `HTML` `CSS` `JS` | Responsive portfolio, project showcase, contact form and animations |
@@ -35,25 +52,15 @@
 </table>
 
 </div>
+</div>
+</br>
 
-## 👨‍💻 About Me
-
-I'm **Abhinash**, a Full-Stack Developer and MERN specialist focused on building practical web and mobile applications.
-
-- 🎓 MCA student at **Chandigarh University**
-- ⚡ Full-Stack / MERN development
-- 🧩 React, Node.js, Express.js, MongoDB and Firebase
-- 🔌 REST APIs, SQL and application integration
-- 📱 Android development with Kotlin
-- 🧠 DSA and problem solving
-- 🌱 Currently learning **TypeScript and Next.js**
-- 🎯 Interested in building products that solve real problems
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,java,kotlin,mysql,git,github,tailwind&theme=dark" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,java,python,mysql,postman,supabase,git,github,tailwind&theme=dark" alt="Tech stack">
 </p>
+</br>
 
 <div align="center">
 
